@@ -17,6 +17,7 @@ void setup(){
 void loop(){
     sevseg.setNumber(4999, 3);
     sevseg.refreshDisplay(); 
+	//Wijziging
 }
 
 
